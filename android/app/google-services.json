@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761767860853",
+    "firebase_url": "https://tickets-gims.firebaseio.com",
+    "project_id": "tickets-gims",
+    "storage_bucket": "tickets-gims.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761767860853:android:38252404363cce53d1763c",
+        "android_client_info": {
+          "package_name": "ru.iswift.tickets_gims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761767860853-lb9iiice97ji13akg2npjoo52j3r9n76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZAMkheYFD8T6NSoERuh5j9Zutz-u2V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761767860853-lb9iiice97ji13akg2npjoo52j3r9n76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
